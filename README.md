@@ -1,4 +1,4 @@
-# xinagand.github.io
+# My Home Page: xinagand
 
 hello by me
-updated 14:26
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
